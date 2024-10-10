@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Exciting web development projects**
 
-- 👨‍💻 All of my projects are available at (shdotin.in)
+- 👨‍💻 All of my projects are available at shdotin.in
 
 - 💬 Ask me about **JavaScript frameworks and libraries**
 
